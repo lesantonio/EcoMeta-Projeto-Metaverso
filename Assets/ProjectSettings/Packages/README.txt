@@ -1,1 +1,0 @@
-Pacotes e SDKs.
